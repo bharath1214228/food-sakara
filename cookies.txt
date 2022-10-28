@@ -1,0 +1,24 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sakara.com	TRUE	/1920076/checkouts/549c846c5669cdd9c95d81983404d6a7	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUwWmpNNVpqazFOVEV6T0dGa05HTTVNalZqWldVeU0yWXhaamxpTWpBME5BWTZCa1ZVIiwiZXhwIjoiMjAyMi0xMS0xN1QxNjo1Njo0OS44NTVaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--a690e8588525d6f11d66553310e873bb81ba76ec
+www.sakara.com	TRUE	/1920076	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUxTkRsak9EUTJZelUyTmpsalpHUTVZemsxWkRneE9UZ3pOREEwWkRaaE53WTZCa1ZVIiwiZXhwIjoiMjAyMy0xMC0yN1QxNTo1Njo0OS44NTVaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--557370f4a29accf817ec8b06a55dc33fe094ec77
+sakara.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+app.brightback.com	TRUE	/	FALSE	1999999999	BRTBCK_PTC	5df854f1-7cb8-4796-8630-370fc0f862ce
+app.brightback.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+www.sakara.com	TRUE	/	FALSE	1999999999	_secure_session_id	51cae75a70a0b5c3ed02e8ce4182ee4b
+www.sakara.com	TRUE	/	FALSE	1999999999	cart	2180c091b8329b0f39cf4381ad31b4b1
+www.sakara.com	TRUE	/	FALSE	1999999999	cart_ts	1666886207
+www.sakara.com	TRUE	/	FALSE	1999999999	_checkout_queue_token	Ao3T69UwIUXeYLQqoi_CMYOnHtVBhVIZ2uh78eWyLHCEIlWj2ADSno529vtsm5f98Gm6HN9nQWSSpggscV9n__f27exMgG1KQqBEzqo04km_whyh6anlZbk-eiWzgoSuG9HVvBcfmM9-H3NUIVzNFt_tkf6vO7VaBFGNroTYaQ%3D%3D
+www.sakara.com	TRUE	/	FALSE	1999999999	_checkout_queue_checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUxTkRsak9EUTJZelUyTmpsalpHUTVZemsxWkRneE9UZ3pOREEwWkRaaE53WTZCa1ZVIiwiZXhwIjoiMjAyMi0xMC0yN1QxNjo1Njo0Ny40MThaIiwicHVyIjoiY29va2llLl9jaGVja291dF9xdWV1ZV9jaGVja291dF90b2tlbiJ9fQ%3D%3D--7d6c561a1143ad35281b4bb78dc7f90bad399668
+www.sakara.com	TRUE	/	FALSE	1999999999	cart_sig	4a7ebac70620d1c79b711c07cea465b8
+www.sakara.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A1
+www.sakara.com	TRUE	/	FALSE	1999999999	_shop_pay_experiment	shop_pay_enabled
+www.sakara.com	TRUE	/	FALSE	1999999999	localization	US
+www.sakara.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+sakara.com	TRUE	/	FALSE	1999999999	_y	e494ca03-0a05-46b1-ba20-5085cfb01473
+sakara.com	TRUE	/	FALSE	1999999999	_s	97c6f420-b178-46e4-a5f4-852bb870252e
+sakara.com	TRUE	/	FALSE	1999999999	_shopify_y	e494ca03-0a05-46b1-ba20-5085cfb01473
+www.sakara.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+sakara.com	TRUE	/	FALSE	1999999999	_shopify_s	97c6f420-b178-46e4-a5f4-852bb870252e
+www.sakara.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
